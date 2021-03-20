@@ -1,4 +1,4 @@
-# Server-Client-Communication
+# Server-Client-Communication-C
 Multiple Projects: Code Editor | Font Display | Server-Client Communication | Active PORT scanner
 
 More info on each project is located in their specific readME files
