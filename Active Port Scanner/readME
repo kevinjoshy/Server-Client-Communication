@@ -1,0 +1,9 @@
+Port scanner.
+A port scanner is a program that tries to find out which ports on a host machine have actively listening
+servers. A simple way to do this is to iterate over the ports, trying to establish a connection on each one.
+Once a connection is established, the scanner can further determine whether the server listening on the
+port is a web server by sending to the server a message starting with the string “GET” and checking if the
+response begins with “HTTP”. 
+
+This Port Scanner defaults to localhost and scans between ports 20 and 100
+You can specify what host or range you wish.

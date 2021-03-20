@@ -1,0 +1,4 @@
+You can utilize strrender.c or strrender2.c to print a message with a special font. Data for the font is located in font8x8_basic
+
+run: ./generate-fontfile 
+To create font8x8_basic

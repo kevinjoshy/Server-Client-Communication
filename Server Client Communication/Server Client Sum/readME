@@ -1,0 +1,4 @@
+This is a server program that communicates with a client program via
+Internet sockets. The server listens on port 3100 and has an IPv4 address. The server computes the sum of
+Integers it receives from the client. The details of the communication protocol between server and client are
+The client will read from the server and print the total sum or display any error messages. 

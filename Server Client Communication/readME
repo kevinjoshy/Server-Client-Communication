@@ -1,0 +1,20 @@
+
+Begin by running the client and server 
+
+
+This server to client communication allows the client to:
+
+"ls" - list files in server directory
+
+"lls" - List files in local directory 
+
+"get" - gets a file from the server Usage: get <file-name>
+
+"put" - sends a file to the server directory Usage: put <file-name>
+
+"size" - Gets the size of a file in the server Usage: size <file-name>
+
+"lsize" - Gets the size of a file in the client Usage: lsize <file-name>
+
+"mget" - Gets a list of files similar to the "get" method 
+Usage: mget <file-name> <file-name2> <file-name3> .......

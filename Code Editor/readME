@@ -1,0 +1,11 @@
+This is a code Editor
+
+The user can specify what editor they want to use by changing OPTION to what ever preferred editor
+Usage:
+./workon <file-name>
+
+This will allow you to open <file-name> edit it and save what you added/removed
+Then it will utilizes find-error.py to find the error when compiling the edited file and display error if there is any.
+
+User has the option to continue or quit out. 
+If chosen to continue the file will be reopened at the line of the error for easy debugging.
